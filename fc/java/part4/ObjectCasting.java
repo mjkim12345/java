@@ -1,6 +1,6 @@
 package fc.java.fc.java.part4;
 
-import com.sun.tools.javac.Main;
+//import com.sun.tools.javac.Main;
 import fc.java.fc.java.model.*;
 
 public class ObjectCasting {
